@@ -1,0 +1,6 @@
+C:\Users\kaido\source\repos\PrimieroTeste\PrimieroTeste\bin\Debug\PrimieroTeste.exe.config
+C:\Users\kaido\source\repos\PrimieroTeste\PrimieroTeste\bin\Debug\PrimieroTeste.exe
+C:\Users\kaido\source\repos\PrimieroTeste\PrimieroTeste\bin\Debug\PrimieroTeste.pdb
+C:\Users\kaido\source\repos\PrimieroTeste\PrimieroTeste\obj\Debug\PrimieroTeste.csproj.CoreCompileInputs.cache
+C:\Users\kaido\source\repos\PrimieroTeste\PrimieroTeste\obj\Debug\PrimieroTeste.exe
+C:\Users\kaido\source\repos\PrimieroTeste\PrimieroTeste\obj\Debug\PrimieroTeste.pdb

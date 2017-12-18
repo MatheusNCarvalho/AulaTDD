@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimieroTeste", "PrimieroTeste\PrimieroTeste.csproj", "{0C8E58A7-0498-4813-B583-C5349A98804B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Testes", "Testes", "{51D3F17E-0DF9-4B58-B061-8052B8707A3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteUnitario", "TesteUnitario\TesteUnitario.csproj", "{3E54EBEB-86E6-4490-8ADC-E978C7DB686B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C8E58A7-0498-4813-B583-C5349A98804B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C8E58A7-0498-4813-B583-C5349A98804B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C8E58A7-0498-4813-B583-C5349A98804B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C8E58A7-0498-4813-B583-C5349A98804B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E54EBEB-86E6-4490-8ADC-E978C7DB686B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E54EBEB-86E6-4490-8ADC-E978C7DB686B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E54EBEB-86E6-4490-8ADC-E978C7DB686B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E54EBEB-86E6-4490-8ADC-E978C7DB686B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3E54EBEB-86E6-4490-8ADC-E978C7DB686B} = {51D3F17E-0DF9-4B58-B061-8052B8707A3D}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B4EECE3-254C-46B4-BEE9-AED807635314}
+	EndGlobalSection
+EndGlobal
